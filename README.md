@@ -1,4 +1,4 @@
-#Teaching Portfolio – Giftdminds Learning Center
+# Teaching Portfolio – Giftdminds Learning Center
 
 This folder contains a curated collection of lesson plans and presentation slides developed and delivered during my teaching sessions at Giftdminds Learning Center. Giftdminds is an educational startup focused on equipping students with essential skills that are typically not emphasized within conventional school curricula.
 
