@@ -1,2 +1,5 @@
-# Giftdminds_Coursework_for_Optics_and_Astronomy-
-Folder contains lesson plans and presentation slides created and delivered by me at Giftdminds Learning Center. The materials focus on teaching practical, real-world skills beyond standard school curricula, designed to engage students and simplify complex concepts effectively.
+#Teaching Portfolio – Giftdminds Learning Center
+
+This folder contains a curated collection of lesson plans and presentation slides developed and delivered during my teaching sessions at Giftdminds Learning Center. Giftdminds is an educational startup focused on equipping students with essential skills that are typically not emphasized within conventional school curricula.
+
+All materials included in this folder—both the structured lesson plans and the accompanying presentation slides—were independently designed and created by me. These resources reflect a thoughtful approach to engaging young learners, simplifying complex concepts, and fostering practical skill development through interactive and well-organized teaching methods.
